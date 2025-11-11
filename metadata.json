@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of Smart URL Analyzer",
+  "description": "An intelligent web application that uses Gemini to analyze and classify URLs as either malicious or benign, providing a detailed breakdown and a final verdict based on simulated hybrid analysis.",
+  "requestFramePermissions": []
+}
